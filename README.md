@@ -8,9 +8,9 @@ I am a programmer. My goal is skill up and be a well-known programmer.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [mirriammumbi.m@gmail.com](mailto:mirriammumbi.m@gmail.com)
-* 🧠  I'm learning Programming
+* 🧠  I'm learning currently pursuing Programming
 * 🤝  I'm open to collaborating on projects in programming
-* ⚡  I'm currently working on creating my GitHub account
+  
 
 ### Skills
 
